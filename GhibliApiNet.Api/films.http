@@ -1,0 +1,10 @@
+@baseUrl = http://localhost:5099/api/films
+
+### Get all films
+GET {{baseUrl}}/
+
+### Get films by title
+GET {{baseUrl}}/?title=My Neighbor Totoro
+
+### Get film by ID
+GET {{baseUrl}}/ea660b10-85c4-4ae3-8a5f-41cea3648e3e
