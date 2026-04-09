@@ -1,0 +1,4 @@
+@baseUrl = http://localhost:5099/api/species
+
+###
+GET {{baseUrl}}/
