@@ -1,10 +1,18 @@
+using GhibliApiNet.Api.MongoDb.Models;
+using GhibliApiNet.Api.MongoDb.Services;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// builder.Configuration.AddUserSecrets(typeof(Program).Assembly);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
+builder.Services.AddSingleton<MongoDBService>();
 
 var app = builder.Build();
 

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhibliApiNet.Api", "GhibliApiNet.Api\GhibliApiNet.Api.csproj", "{E37971F0-5D70-4AFF-8FC9-1F91DEF65BA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhibliApiNet.Api.MongoDb", "GhibliApiNet.Api.MongoDb\GhibliApiNet.Api.MongoDb.csproj", "{E37971F0-5D70-4AFF-8FC9-1F91DEF65BA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
