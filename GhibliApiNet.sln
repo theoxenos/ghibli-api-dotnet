@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhibliApiNet.Api.MongoDb", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhibliApiNet.Api", "GhibliApiNet.Api\GhibliApiNet.Api.csproj", "{DAB52736-CD5C-429F-AF53-647E68D09A1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertJsonToSqlite", "ConvertJsonToSqlite\ConvertJsonToSqlite.csproj", "{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DAB52736-CD5C-429F-AF53-647E68D09A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAB52736-CD5C-429F-AF53-647E68D09A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAB52736-CD5C-429F-AF53-647E68D09A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
