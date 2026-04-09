@@ -14,35 +14,35 @@
       "running_time": "124",
       "rt_score": "95",
       "people": [
-        "/people/05d8d01b-0c2f-450e-9c55-aa0daa34838e",
-        "/people/2a1dad70-802a-459d-8cc2-4ebd8821248b",
-        "/people/2cb76c15-772a-4cb3-9919-3652f56611d0",
-        "/people/3bc0b41e-3569-4d20-ae73-2da329bf0786",
-        "/people/3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
-        "/people/40c005ce-3725-4f15-8409-3e1b1b14b583",
-        "/people/598f7048-74ff-41e0-92ef-87dc1ad980a9",
-        "/people/5c83c12a-62d5-4e92-8672-33ac76ae1fa0",
-        "/people/abe886e7-30c8-4c19-aaa5-d666e60d14de",
-        "/people/b22a684f-1819-40c8-94a6-d40c3b5e18eb",
-        "/people/e08880d0-6938-44f3-b179-81947e7873fc",
-        "/people/f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
-        "/people/fcb4a2ac-5e41-4d54-9bba-33068db083ca",
-        "/people/fe93adf2-2f3a-4ec4-9f68-5422f1b87c01"
+        "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
+        "2a1dad70-802a-459d-8cc2-4ebd8821248b",
+        "2cb76c15-772a-4cb3-9919-3652f56611d0",
+        "3bc0b41e-3569-4d20-ae73-2da329bf0786",
+        "3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
+        "40c005ce-3725-4f15-8409-3e1b1b14b583",
+        "598f7048-74ff-41e0-92ef-87dc1ad980a9",
+        "5c83c12a-62d5-4e92-8672-33ac76ae1fa0",
+        "abe886e7-30c8-4c19-aaa5-d666e60d14de",
+        "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+        "e08880d0-6938-44f3-b179-81947e7873fc",
+        "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
+        "fcb4a2ac-5e41-4d54-9bba-33068db083ca",
+        "fe93adf2-2f3a-4ec4-9f68-5422f1b87c01"
       ],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-        "/species/e2cfaa78-fb19-11eb-9a03-0242ac130003"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+        "e2cfaa78-fb19-11eb-9a03-0242ac130003"
       ],
       "locations": [
-        "/locations/0132f7f6-fd52-4ac3-b5df-c96b609f77b6",
-        "/locations/0fafa7a3-64c1-43fe-881b-ecb605c01e09",
-        "/locations/26361a2c-32c6-4bd5-ae9c-8e40e17ae28d",
-        "/locations/6ba60a86-7c74-4ec4-a6f4-7112b5705a2f"
+        "0132f7f6-fd52-4ac3-b5df-c96b609f77b6",
+        "0fafa7a3-64c1-43fe-881b-ecb605c01e09",
+        "26361a2c-32c6-4bd5-ae9c-8e40e17ae28d",
+        "6ba60a86-7c74-4ec4-a6f4-7112b5705a2f"
       ],
       "vehicles": [
-        "/vehicles/4e09b023-f650-4747-9ab9-eacf14540cfb"
+        "4e09b023-f650-4747-9ab9-eacf14540cfb"
       ],
-      "url": "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      "url": "2baf70d1-42bb-4437-b551-e5fed5a87abe"
     },
     {
       "id": "12cfb892-aac0-4c5b-94af-521852e46d6a",
@@ -59,11 +59,11 @@
       "rt_score": "97",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [],
       "vehicles": [],
-      "url": "/films/12cfb892-aac0-4c5b-94af-521852e46d6a"
+      "url": "12cfb892-aac0-4c5b-94af-521852e46d6a"
     },
     {
       "id": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
@@ -79,29 +79,29 @@
       "running_time": "86",
       "rt_score": "93",
       "people": [
-        "/people/08ffbce4-7f94-476a-95bc-76d3c3969c19",
-        "/people/0f8ef701-b4c7-4f15-bd15-368c7fe38d0a",
-        "/people/3031caa8-eb1a-41c6-ab93-dd091b541e11",
-        "/people/591524bc-04fe-4e60-8d61-2425e42ffb2a",
-        "/people/87b68b97-3774-495b-bf80-495a5f3e672d",
-        "/people/986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
-        "/people/c491755a-407d-4d6e-b58a-240ec78b5061",
-        "/people/d39deecb-2bd0-4770-8b45-485f26e1381f",
-        "/people/d5df3c04-f355-4038-833c-83bd3502b6b9",
-        "/people/f467e18e-3694-409f-bdb3-be891ade1106"
+        "08ffbce4-7f94-476a-95bc-76d3c3969c19",
+        "0f8ef701-b4c7-4f15-bd15-368c7fe38d0a",
+        "3031caa8-eb1a-41c6-ab93-dd091b541e11",
+        "591524bc-04fe-4e60-8d61-2425e42ffb2a",
+        "87b68b97-3774-495b-bf80-495a5f3e672d",
+        "986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
+        "c491755a-407d-4d6e-b58a-240ec78b5061",
+        "d39deecb-2bd0-4770-8b45-485f26e1381f",
+        "d5df3c04-f355-4038-833c-83bd3502b6b9",
+        "f467e18e-3694-409f-bdb3-be891ade1106"
       ],
       "species": [
-        "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-        "/species/74b7f547-1577-4430-806c-c358c8b6bcf5",
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+        "74b7f547-1577-4430-806c-c358c8b6bcf5",
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/660c8c91-bd92-43db-b475-b2df6ca96fec",
-        "/locations/6fc21b76-78fb-4451-98f7-857e32a23e85",
-        "/locations/ee897b2a-405e-42b9-bff4-8b51b0f03cab"
+        "660c8c91-bd92-43db-b475-b2df6ca96fec",
+        "6fc21b76-78fb-4451-98f7-857e32a23e85",
+        "ee897b2a-405e-42b9-bff4-8b51b0f03cab"
       ],
       "vehicles": [],
-      "url": "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      "url": "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
     },
     {
       "id": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
@@ -117,24 +117,24 @@
       "running_time": "102",
       "rt_score": "96",
       "people": [
-        "/people/1c1a8054-3a34-4185-bfcf-e8011506f09a",
-        "/people/2409052a-9029-4e8d-bfaf-70fd82c8e48d",
-        "/people/33f5fea9-c21b-490b-90e0-c4051c372826",
-        "/people/7151abc6-1a9e-4e6a-9711-ddb50ea572ec",
-        "/people/bc838920-7849-43ea-bfb8-7d5e98dc20b6",
-        "/people/d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa"
+        "1c1a8054-3a34-4185-bfcf-e8011506f09a",
+        "2409052a-9029-4e8d-bfaf-70fd82c8e48d",
+        "33f5fea9-c21b-490b-90e0-c4051c372826",
+        "7151abc6-1a9e-4e6a-9711-ddb50ea572ec",
+        "bc838920-7849-43ea-bfb8-7d5e98dc20b6",
+        "d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa"
       ],
       "species": [
-        "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/62346d33-caa0-4c17-8016-0aca56f3066b",
-        "/locations/c57fb2cb-ea85-4d73-8808-cf5dcd28c22e",
-        "/locations/fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2"
+        "62346d33-caa0-4c17-8016-0aca56f3066b",
+        "c57fb2cb-ea85-4d73-8808-cf5dcd28c22e",
+        "fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2"
       ],
       "vehicles": [],
-      "url": "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+      "url": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
     },
     {
       "id": "4e236f34-b981-41c3-8c65-f8c9000b94e7",
@@ -151,13 +151,13 @@
       "rt_score": "100",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/dbeeaecb-7817-4b8b-90ca-edc432d3033e"
+        "dbeeaecb-7817-4b8b-90ca-edc432d3033e"
       ],
       "vehicles": [],
-      "url": "/films/4e236f34-b981-41c3-8c65-f8c9000b94e7"
+      "url": "4e236f34-b981-41c3-8c65-f8c9000b94e7"
     },
     {
       "id": "ebbb6b7c-945c-41ee-a792-de0e43191bd8",
@@ -173,18 +173,18 @@
       "running_time": "93",
       "rt_score": "94",
       "people": [
-        "/people/6523068d-f5a9-4150-bf5b-76abe6fb42c3"
+        "6523068d-f5a9-4150-bf5b-76abe6fb42c3"
       ],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/34df8f25-8f80-4823-8f01-bf9852039987"
+        "34df8f25-8f80-4823-8f01-bf9852039987"
       ],
       "vehicles": [
-        "/vehicles/d8f893b5-1dd9-41a1-9918-0099c1aa2de8"
+        "d8f893b5-1dd9-41a1-9918-0099c1aa2de8"
       ],
-      "url": "/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8"
+      "url": "ebbb6b7c-945c-41ee-a792-de0e43191bd8"
     },
     {
       "id": "1b67aa9a-2e4a-45af-ac98-64d6ad15b16c",
@@ -201,11 +201,11 @@
       "rt_score": "78",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [],
       "vehicles": [],
-      "url": "/films/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c"
+      "url": "1b67aa9a-2e4a-45af-ac98-64d6ad15b16c"
     },
     {
       "id": "ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
@@ -221,18 +221,18 @@
       "running_time": "111",
       "rt_score": "91",
       "people": [
-        "/people/6b3facea-ea33-47b1-96ce-3fc737b119b8",
-        "/people/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
+        "6b3facea-ea33-47b1-96ce-3fc737b119b8",
+        "fc196c4f-0201-4ed2-9add-c6403f7c4d32"
       ],
       "species": [
-        "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/42f787d8-1fcb-4d3d-82f2-a74409869368"
+        "42f787d8-1fcb-4d3d-82f2-a74409869368"
       ],
       "vehicles": [],
-      "url": "/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+      "url": "ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
     },
     {
       "id": "0440483e-ca0e-4120-8c50-4c8cd9b965d6",
@@ -248,30 +248,30 @@
       "running_time": "134",
       "rt_score": "92",
       "people": [
-        "/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b",
-        "/people/116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
-        "/people/20e3bd33-b35d-41e6-83a4-57ca7f028d38",
-        "/people/34277bec-7401-43fa-a00a-5aee64b45b08",
-        "/people/8bccdc78-545b-49f4-a4c8-756163a38c91",
-        "/people/91939012-90b9-46e5-a649-96b898073c82",
-        "/people/ba924631-068e-4436-b6de-f3283fa848f0",
-        "/people/ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
-        "/people/e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
-        "/people/ebe40383-aad2-4208-90ab-698f00c581ab"
+        "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+        "116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
+        "20e3bd33-b35d-41e6-83a4-57ca7f028d38",
+        "34277bec-7401-43fa-a00a-5aee64b45b08",
+        "8bccdc78-545b-49f4-a4c8-756163a38c91",
+        "91939012-90b9-46e5-a649-96b898073c82",
+        "ba924631-068e-4436-b6de-f3283fa848f0",
+        "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
+        "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+        "ebe40383-aad2-4208-90ab-698f00c581ab"
       ],
       "species": [
-        "/species/6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-        "/species/b5a92d0e-5fb4-43d4-ba60-c012135958e4",
-        "/species/f25fa661-3073-414d-968a-ab062e3065f7"
+        "6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+        "b5a92d0e-5fb4-43d4-ba60-c012135958e4",
+        "f25fa661-3073-414d-968a-ab062e3065f7"
       ],
       "locations": [
-        "/locations/11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
-        "/locations/615aa48d-8673-4117-b35a-79cb67af1897",
-        "/locations/64a996aa-481e-4627-9624-ab23f59a05a9"
+        "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+        "615aa48d-8673-4117-b35a-79cb67af1897",
+        "64a996aa-481e-4627-9624-ab23f59a05a9"
       ],
       "vehicles": [],
-      "url": "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      "url": "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
     },
     {
       "id": "45204234-adfd-45cb-a505-a8e7a676b114",
@@ -288,13 +288,13 @@
       "rt_score": "75",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/682df5c3-b09e-46af-94d1-ae0d17f9b4b6"
+        "682df5c3-b09e-46af-94d1-ae0d17f9b4b6"
       ],
       "vehicles": [],
-      "url": "/films/45204234-adfd-45cb-a505-a8e7a676b114"
+      "url": "45204234-adfd-45cb-a505-a8e7a676b114"
     },
     {
       "id": "dc2e6bd1-8156-4886-adff-b39e6043af0c",
@@ -310,19 +310,19 @@
       "running_time": "124",
       "rt_score": "97",
       "people": [
-        "/people/267649ac-fb1b-11eb-9a03-0242ac130003",
-        "/people/8228751c-bdc1-4b8d-a6eb-ca0eb909568f"
+        "267649ac-fb1b-11eb-9a03-0242ac130003",
+        "8228751c-bdc1-4b8d-a6eb-ca0eb909568f"
       ],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-        "/species/e2cfaa78-fb19-11eb-9a03-0242ac130003"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+        "e2cfaa78-fb19-11eb-9a03-0242ac130003"
       ],
       "locations": [
-        "/locations/37d13a96-a03a-451d-8871-80be0495486e",
-        "/locations/a072ec53-0467-4fac-864f-df234f9c4315"
+        "37d13a96-a03a-451d-8871-80be0495486e",
+        "a072ec53-0467-4fac-864f-df234f9c4315"
       ],
       "vehicles": [],
-      "url": "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+      "url": "dc2e6bd1-8156-4886-adff-b39e6043af0c"
     },
     {
       "id": "90b72513-afd4-4570-84de-a56c312fdf81",
@@ -338,22 +338,22 @@
       "running_time": "75",
       "rt_score": "89",
       "people": [
-        "/people/3042818d-a8bb-4cba-8180-c19249822d57",
-        "/people/466bc926-2024-4653-ac63-fe52f2dc8c7b",
-        "/people/58d1973f-f247-47d7-9358-e56cb0d2b5a6",
-        "/people/6b3facea-ea33-47b1-96ce-3fc737b119b8",
-        "/people/a3d8e70f-46a0-4e5a-b850-db01620d6b92",
-        "/people/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
+        "3042818d-a8bb-4cba-8180-c19249822d57",
+        "466bc926-2024-4653-ac63-fe52f2dc8c7b",
+        "58d1973f-f247-47d7-9358-e56cb0d2b5a6",
+        "6b3facea-ea33-47b1-96ce-3fc737b119b8",
+        "a3d8e70f-46a0-4e5a-b850-db01620d6b92",
+        "fc196c4f-0201-4ed2-9add-c6403f7c4d32"
       ],
       "species": [
-        "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/a8bd9c03-7c80-4a97-b7c0-6a668acaf576"
+        "a8bd9c03-7c80-4a97-b7c0-6a668acaf576"
       ],
       "vehicles": [],
-      "url": "/films/90b72513-afd4-4570-84de-a56c312fdf81"
+      "url": "90b72513-afd4-4570-84de-a56c312fdf81"
     },
     {
       "id": "cd3d059c-09f4-4ff3-8d63-bc765a5184fa",
@@ -370,13 +370,13 @@
       "rt_score": "87",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/b6bac992-a858-4d57-8477-9652d73caaa1"
+        "b6bac992-a858-4d57-8477-9652d73caaa1"
       ],
       "vehicles": [],
-      "url": "/films/cd3d059c-09f4-4ff3-8d63-bc765a5184fa"
+      "url": "cd3d059c-09f4-4ff3-8d63-bc765a5184fa"
     },
     {
       "id": "112c1e67-726f-40b1-ac17-6974127bb9b9",
@@ -393,11 +393,11 @@
       "rt_score": "41",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [],
       "vehicles": [],
-      "url": "/films/112c1e67-726f-40b1-ac17-6974127bb9b9"
+      "url": "112c1e67-726f-40b1-ac17-6974127bb9b9"
     },
     {
       "id": "758bf02e-3122-46e0-884e-67cf83df1786",
@@ -413,19 +413,19 @@
       "running_time": "100",
       "rt_score": "92",
       "people": [
-        "/people/a10f64f3-e0b6-4a94-bf30-87ad8bc51607"
+        "a10f64f3-e0b6-4a94-bf30-87ad8bc51607"
       ],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/469b14bd-5565-4436-bbed-c2036f42cc99",
-        "/locations/90241c46-d4be-411f-b00a-7561b9dda7b6"
+        "469b14bd-5565-4436-bbed-c2036f42cc99",
+        "90241c46-d4be-411f-b00a-7561b9dda7b6"
       ],
       "vehicles": [
-        "/vehicles/923d70c9-8f15-4972-ad53-0128b261d628"
+        "923d70c9-8f15-4972-ad53-0128b261d628"
       ],
-      "url": "/films/758bf02e-3122-46e0-884e-67cf83df1786"
+      "url": "758bf02e-3122-46e0-884e-67cf83df1786"
     },
     {
       "id": "2de9426b-914a-4a06-a3a0-5e6d9d3886f6",
@@ -441,15 +441,15 @@
       "running_time": "94",
       "rt_score": "95",
       "people": [
-        "/people/89026b3a-abc4-4053-ab1a-c6d2eea68faa"
+        "89026b3a-abc4-4053-ab1a-c6d2eea68faa"
       ],
       "species": [
-        "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [],
       "vehicles": [],
-      "url": "/films/2de9426b-914a-4a06-a3a0-5e6d9d3886f6"
+      "url": "2de9426b-914a-4a06-a3a0-5e6d9d3886f6"
     },
     {
       "id": "45db04e4-304a-4933-9823-33f389e8d74d",
@@ -466,11 +466,11 @@
       "rt_score": "83",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [],
       "vehicles": [],
-      "url": "/films/45db04e4-304a-4933-9823-33f389e8d74d"
+      "url": "45db04e4-304a-4933-9823-33f389e8d74d"
     },
     {
       "id": "67405111-37a5-438f-81cc-4666af60c800",
@@ -487,11 +487,11 @@
       "rt_score": "89",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [],
       "vehicles": [],
-      "url": "/films/67405111-37a5-438f-81cc-4666af60c800"
+      "url": "67405111-37a5-438f-81cc-4666af60c800"
     },
     {
       "id": "578ae244-7750-4d9f-867b-f3cd3d6fecf4",
@@ -508,13 +508,13 @@
       "rt_score": "100",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/682df5c3-b09e-46af-94d1-ae0d17f9b4b6"
+        "682df5c3-b09e-46af-94d1-ae0d17f9b4b6"
       ],
       "vehicles": [],
-      "url": "/films/578ae244-7750-4d9f-867b-f3cd3d6fecf4"
+      "url": "578ae244-7750-4d9f-867b-f3cd3d6fecf4"
     },
     {
       "id": "5fdfb320-2a02-49a7-94ff-5ca418cae602",
@@ -531,13 +531,13 @@
       "rt_score": "92",
       "people": [],
       "species": [
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/56e423c4-d9a1-44c4-8bdb-1cab45fbf63e"
+        "56e423c4-d9a1-44c4-8bdb-1cab45fbf63e"
       ],
       "vehicles": [],
-      "url": "/films/5fdfb320-2a02-49a7-94ff-5ca418cae602"
+      "url": "5fdfb320-2a02-49a7-94ff-5ca418cae602"
     },
     {
       "id": "d868e6ec-c44a-405b-8fa6-f7f0f8cfb500",
@@ -556,7 +556,7 @@
       "species": [],
       "locations": [],
       "vehicles": [],
-      "url": "/films/d868e6ec-c44a-405b-8fa6-f7f0f8cfb500"
+      "url": "d868e6ec-c44a-405b-8fa6-f7f0f8cfb500"
     },
     {
       "id": "790e0028-a31c-4626-a694-86b7a8cada40",
@@ -572,22 +572,22 @@
       "running_time": "82",
       "rt_score": "30",
       "people": [
-        "/people/2d66e2eb-5a74-4721-a5b3-c556497bdb66",
-        "/people/374561e6-aa8e-4d20-8579-806e589c0f31",
-        "/people/56c94dae-3290-472f-ad2e-0a6444956b51",
-        "/people/5caa6a3c-7d44-47d1-afc6-12fffad28889",
-        "/people/835f8c7c-2fc6-4f54-b545-c02ab066cd69",
-        "/people/e9177769-9b6b-49c2-9820-d24f50b83ad9"
+        "2d66e2eb-5a74-4721-a5b3-c556497bdb66",
+        "374561e6-aa8e-4d20-8579-806e589c0f31",
+        "56c94dae-3290-472f-ad2e-0a6444956b51",
+        "5caa6a3c-7d44-47d1-afc6-12fffad28889",
+        "835f8c7c-2fc6-4f54-b545-c02ab066cd69",
+        "e9177769-9b6b-49c2-9820-d24f50b83ad9"
       ],
       "species": [
-        "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-        "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+        "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [
-        "/locations/398e3e1e-9912-4eb6-91fe-a9f8b932b67d"
+        "398e3e1e-9912-4eb6-91fe-a9f8b932b67d"
       ],
       "vehicles": [],
-      "url": "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+      "url": "790e0028-a31c-4626-a694-86b7a8cada40"
     }
   ],
   "people": [
@@ -599,10 +599,10 @@
       "eye_color": "Green",
       "hair_color": "Green",
       "films": [
-        "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+        "dc2e6bd1-8156-4886-adff-b39e6043af0c"
       ],
-      "species": "/species/e2cfaa78-fb19-11eb-9a03-0242ac130003",
-      "url": "/people/267649ac-fb1b-11eb-9a03-0242ac130003"
+      "species": "e2cfaa78-fb19-11eb-9a03-0242ac130003",
+      "url": "267649ac-fb1b-11eb-9a03-0242ac130003"
     },
     {
       "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c01",
@@ -612,10 +612,10 @@
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/fe93adf2-2f3a-4ec4-9f68-5422f1b87c01"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c01"
     },
     {
       "id": "598f7048-74ff-41e0-92ef-87dc1ad980a9",
@@ -625,10 +625,10 @@
       "eye_color": "Black",
       "hair_color": "Black",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/598f7048-74ff-41e0-92ef-87dc1ad980a9"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "598f7048-74ff-41e0-92ef-87dc1ad980a9"
     },
     {
       "id": "3bc0b41e-3569-4d20-ae73-2da329bf0786",
@@ -638,10 +638,10 @@
       "eye_color": "Black",
       "hair_color": "Peach",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/3bc0b41e-3569-4d20-ae73-2da329bf0786"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "3bc0b41e-3569-4d20-ae73-2da329bf0786"
     },
     {
       "id": "abe886e7-30c8-4c19-aaa5-d666e60d14de",
@@ -651,10 +651,10 @@
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/abe886e7-30c8-4c19-aaa5-d666e60d14de"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "abe886e7-30c8-4c19-aaa5-d666e60d14de"
     },
     {
       "id": "e08880d0-6938-44f3-b179-81947e7873fc",
@@ -664,10 +664,10 @@
       "eye_color": "Black",
       "hair_color": "White",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/e08880d0-6938-44f3-b179-81947e7873fc"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "e08880d0-6938-44f3-b179-81947e7873fc"
     },
     {
       "id": "5c83c12a-62d5-4e92-8672-33ac76ae1fa0",
@@ -677,10 +677,10 @@
       "eye_color": "Black",
       "hair_color": "None",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/5c83c12a-62d5-4e92-8672-33ac76ae1fa0"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "5c83c12a-62d5-4e92-8672-33ac76ae1fa0"
     },
     {
       "id": "3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
@@ -690,10 +690,10 @@
       "eye_color": "Dark brown",
       "hair_color": "Dark brown",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede"
     },
     {
       "id": "fcb4a2ac-5e41-4d54-9bba-33068db083ca",
@@ -703,10 +703,10 @@
       "eye_color": "Dark brown",
       "hair_color": "Dark brown",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/fcb4a2ac-5e41-4d54-9bba-33068db083ca"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "fcb4a2ac-5e41-4d54-9bba-33068db083ca"
     },
     {
       "id": "2cb76c15-772a-4cb3-9919-3652f56611d0",
@@ -716,10 +716,10 @@
       "eye_color": "Dark brown",
       "hair_color": "Light brown",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/2cb76c15-772a-4cb3-9919-3652f56611d0"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "2cb76c15-772a-4cb3-9919-3652f56611d0"
     },
     {
       "id": "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
@@ -729,10 +729,10 @@
       "eye_color": "Dark brown",
       "hair_color": "Reddish brown",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/f6f2c477-98aa-4796-b9aa-8209fdeed6b9"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "f6f2c477-98aa-4796-b9aa-8209fdeed6b9"
     },
     {
       "id": "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
@@ -742,10 +742,10 @@
       "eye_color": "Dark brown",
       "hair_color": "None",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/05d8d01b-0c2f-450e-9c55-aa0daa34838e"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "05d8d01b-0c2f-450e-9c55-aa0daa34838e"
     },
     {
       "id": "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
@@ -755,10 +755,10 @@
       "eye_color": "Dark brown",
       "hair_color": "Orange",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/b22a684f-1819-40c8-94a6-d40c3b5e18eb"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "b22a684f-1819-40c8-94a6-d40c3b5e18eb"
     },
     {
       "id": "ba924631-068e-4436-b6de-f3283fa848f0",
@@ -768,10 +768,10 @@
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/ba924631-068e-4436-b6de-f3283fa848f0"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "ba924631-068e-4436-b6de-f3283fa848f0"
     },
     {
       "id": "ebe40383-aad2-4208-90ab-698f00c581ab",
@@ -781,10 +781,10 @@
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/ebe40383-aad2-4208-90ab-698f00c581ab"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "ebe40383-aad2-4208-90ab-698f00c581ab"
     },
     {
       "id": "34277bec-7401-43fa-a00a-5aee64b45b08",
@@ -794,10 +794,10 @@
       "eye_color": "Hazel",
       "hair_color": "Black",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/34277bec-7401-43fa-a00a-5aee64b45b08"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "34277bec-7401-43fa-a00a-5aee64b45b08"
     },
     {
       "id": "91939012-90b9-46e5-a649-96b898073c82",
@@ -807,10 +807,10 @@
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/91939012-90b9-46e5-a649-96b898073c82"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "91939012-90b9-46e5-a649-96b898073c82"
     },
     {
       "id": "20e3bd33-b35d-41e6-83a4-57ca7f028d38",
@@ -820,10 +820,10 @@
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/20e3bd33-b35d-41e6-83a4-57ca7f028d38"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "20e3bd33-b35d-41e6-83a4-57ca7f028d38"
     },
     {
       "id": "8bccdc78-545b-49f4-a4c8-756163a38c91",
@@ -833,10 +833,10 @@
       "eye_color": "Grey",
       "hair_color": "Bald, but beard is Brown",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/8bccdc78-545b-49f4-a4c8-756163a38c91"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "8bccdc78-545b-49f4-a4c8-756163a38c91"
     },
     {
       "id": "116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
@@ -846,10 +846,10 @@
       "eye_color": "Brown",
       "hair_color": "White",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/116bfe1b-3ba8-4fa0-8f72-88537a493cb9"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "116bfe1b-3ba8-4fa0-8f72-88537a493cb9"
     },
     {
       "id": "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
@@ -859,10 +859,10 @@
       "eye_color": "Grey",
       "hair_color": "Brown",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
-      "url": "/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b"
+      "species": "6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
+      "url": "030555b3-4c92-4fce-93fb-e70c3ae3df8b"
     },
     {
       "id": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
@@ -872,10 +872,10 @@
       "eye_color": "Red",
       "hair_color": "Light Orange",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/b5a92d0e-5fb4-43d4-ba60-c012135958e4",
-      "url": "/people/ca568e87-4ce2-4afa-a6c5-51f4ae80a60b"
+      "species": "b5a92d0e-5fb4-43d4-ba60-c012135958e4",
+      "url": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b"
     },
     {
       "id": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
@@ -885,10 +885,10 @@
       "eye_color": "Brown",
       "hair_color": "White",
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "species": "/species/f25fa661-3073-414d-968a-ab062e3065f7",
-      "url": "/people/e9356bb5-4d4a-4c93-aadc-c83e514bffe3"
+      "species": "f25fa661-3073-414d-968a-ab062e3065f7",
+      "url": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3"
     },
     {
       "id": "7151abc6-1a9e-4e6a-9711-ddb50ea572ec",
@@ -898,10 +898,10 @@
       "eye_color": "Black",
       "hair_color": "Black",
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/7151abc6-1a9e-4e6a-9711-ddb50ea572ec"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "7151abc6-1a9e-4e6a-9711-ddb50ea572ec"
     },
     {
       "id": "986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
@@ -911,10 +911,10 @@
       "eye_color": "Dark Brown/Black",
       "hair_color": "Dark Brown",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/986faac6-67e3-4fb8-a9ee-bad077c2e7fe"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "986faac6-67e3-4fb8-a9ee-bad077c2e7fe"
     },
     {
       "id": "d5df3c04-f355-4038-833c-83bd3502b6b9",
@@ -924,10 +924,10 @@
       "eye_color": "Brown",
       "hair_color": "Light Brown",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/d5df3c04-f355-4038-833c-83bd3502b6b9"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "d5df3c04-f355-4038-833c-83bd3502b6b9"
     },
     {
       "id": "3031caa8-eb1a-41c6-ab93-dd091b541e11",
@@ -937,10 +937,10 @@
       "eye_color": "Brown",
       "hair_color": "Dark Brown",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/3031caa8-eb1a-41c6-ab93-dd091b541e11"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "3031caa8-eb1a-41c6-ab93-dd091b541e11"
     },
     {
       "id": "87b68b97-3774-495b-bf80-495a5f3e672d",
@@ -950,10 +950,10 @@
       "eye_color": "Brown",
       "hair_color": "Dark Brown",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/87b68b97-3774-495b-bf80-495a5f3e672d"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "87b68b97-3774-495b-bf80-495a5f3e672d"
     },
     {
       "id": "08ffbce4-7f94-476a-95bc-76d3c3969c19",
@@ -963,10 +963,10 @@
       "eye_color": "Black",
       "hair_color": "Grey",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/08ffbce4-7f94-476a-95bc-76d3c3969c19"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "08ffbce4-7f94-476a-95bc-76d3c3969c19"
     },
     {
       "id": "0f8ef701-b4c7-4f15-bd15-368c7fe38d0a",
@@ -976,10 +976,10 @@
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/0f8ef701-b4c7-4f15-bd15-368c7fe38d0a"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "0f8ef701-b4c7-4f15-bd15-368c7fe38d0a"
     },
     {
       "id": "d39deecb-2bd0-4770-8b45-485f26e1381f",
@@ -989,10 +989,10 @@
       "eye_color": "Grey",
       "hair_color": "Grey",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/74b7f547-1577-4430-806c-c358c8b6bcf5",
-      "url": "/people/d39deecb-2bd0-4770-8b45-485f26e1381f"
+      "species": "74b7f547-1577-4430-806c-c358c8b6bcf5",
+      "url": "d39deecb-2bd0-4770-8b45-485f26e1381f"
     },
     {
       "id": "591524bc-04fe-4e60-8d61-2425e42ffb2a",
@@ -1002,10 +1002,10 @@
       "eye_color": "Black",
       "hair_color": "Blue",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/74b7f547-1577-4430-806c-c358c8b6bcf5",
-      "url": "/people/d39deecb-2bd0-4770-8b45-485f26e1381f"
+      "species": "74b7f547-1577-4430-806c-c358c8b6bcf5",
+      "url": "d39deecb-2bd0-4770-8b45-485f26e1381f"
     },
     {
       "id": "c491755a-407d-4d6e-b58a-240ec78b5061",
@@ -1015,10 +1015,10 @@
       "eye_color": "Black",
       "hair_color": "White",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/74b7f547-1577-4430-806c-c358c8b6bcf5",
-      "url": "/people/d39deecb-2bd0-4770-8b45-485f26e1381f"
+      "species": "74b7f547-1577-4430-806c-c358c8b6bcf5",
+      "url": "d39deecb-2bd0-4770-8b45-485f26e1381f"
     },
     {
       "id": "f467e18e-3694-409f-bdb3-be891ade1106",
@@ -1028,10 +1028,10 @@
       "eye_color": "Yellow",
       "hair_color": "Brown",
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/f467e18e-3694-409f-bdb3-be891ade1106"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "f467e18e-3694-409f-bdb3-be891ade1106"
     },
     {
       "id": "89026b3a-abc4-4053-ab1a-c6d2eea68faa",
@@ -1041,10 +1041,10 @@
       "eye_color": "White",
       "hair_color": "Beige",
       "films": [
-        "/films/2de9426b-914a-4a06-a3a0-5e6d9d3886f6"
+        "2de9426b-914a-4a06-a3a0-5e6d9d3886f6"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/89026b3a-abc4-4053-ab1a-c6d2eea68faa"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "89026b3a-abc4-4053-ab1a-c6d2eea68faa"
     },
     {
       "id": "6b3facea-ea33-47b1-96ce-3fc737b119b8",
@@ -1054,11 +1054,11 @@
       "eye_color": "White",
       "hair_color": "Beige",
       "films": [
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81",
-        "/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+        "90b72513-afd4-4570-84de-a56c312fdf81",
+        "ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/6b3facea-ea33-47b1-96ce-3fc737b119b8"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "6b3facea-ea33-47b1-96ce-3fc737b119b8"
     },
     {
       "id": "3042818d-a8bb-4cba-8180-c19249822d57",
@@ -1068,10 +1068,10 @@
       "eye_color": "Emerald",
       "hair_color": "Grey",
       "films": [
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81"
+        "90b72513-afd4-4570-84de-a56c312fdf81"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/3042818d-a8bb-4cba-8180-c19249822d57"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "3042818d-a8bb-4cba-8180-c19249822d57"
     },
     {
       "id": "58d1973f-f247-47d7-9358-e56cb0d2b5a6",
@@ -1081,10 +1081,10 @@
       "eye_color": "Blue",
       "hair_color": "White",
       "films": [
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81"
+        "90b72513-afd4-4570-84de-a56c312fdf81"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/58d1973f-f247-47d7-9358-e56cb0d2b5a6"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "58d1973f-f247-47d7-9358-e56cb0d2b5a6"
     },
     {
       "id": "a3d8e70f-46a0-4e5a-b850-db01620d6b92",
@@ -1094,10 +1094,10 @@
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81"
+        "90b72513-afd4-4570-84de-a56c312fdf81"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/a3d8e70f-46a0-4e5a-b850-db01620d6b92"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "a3d8e70f-46a0-4e5a-b850-db01620d6b92"
     },
     {
       "id": "fc196c4f-0201-4ed2-9add-c6403f7c4d32",
@@ -1107,11 +1107,11 @@
       "eye_color": "Green",
       "hair_color": "Yellow",
       "films": [
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81",
-        "/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+        "90b72513-afd4-4570-84de-a56c312fdf81",
+        "ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "fc196c4f-0201-4ed2-9add-c6403f7c4d32"
     },
     {
       "id": "466bc926-2024-4653-ac63-fe52f2dc8c7b",
@@ -1121,10 +1121,10 @@
       "eye_color": "Blue",
       "hair_color": "Grey",
       "films": [
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81"
+        "90b72513-afd4-4570-84de-a56c312fdf81"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/466bc926-2024-4653-ac63-fe52f2dc8c7b"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "466bc926-2024-4653-ac63-fe52f2dc8c7b"
     },
     {
       "id": "40c005ce-3725-4f15-8409-3e1b1b14b583",
@@ -1134,10 +1134,10 @@
       "eye_color": "Grey",
       "hair_color": "Brown",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/40c005ce-3725-4f15-8409-3e1b1b14b583"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "40c005ce-3725-4f15-8409-3e1b1b14b583"
     },
     {
       "id": "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
@@ -1147,10 +1147,10 @@
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
-        "/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8"
+        "ebbb6b7c-945c-41ee-a792-de0e43191bd8"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/6523068d-f5a9-4150-bf5b-76abe6fb42c3"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "6523068d-f5a9-4150-bf5b-76abe6fb42c3"
     },
     {
       "id": "a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
@@ -1160,10 +1160,10 @@
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
-        "/films/758bf02e-3122-46e0-884e-67cf83df1786"
+        "758bf02e-3122-46e0-884e-67cf83df1786"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/a10f64f3-e0b6-4a94-bf30-87ad8bc51607"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "a10f64f3-e0b6-4a94-bf30-87ad8bc51607"
     },
     {
       "id": "2409052a-9029-4e8d-bfaf-70fd82c8e48d",
@@ -1173,10 +1173,10 @@
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/2409052a-9029-4e8d-bfaf-70fd82c8e48d"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "2409052a-9029-4e8d-bfaf-70fd82c8e48d"
     },
     {
       "id": "2a1dad70-802a-459d-8cc2-4ebd8821248b",
@@ -1186,10 +1186,10 @@
       "eye_color": "Black",
       "hair_color": "NA",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
       "species": null,
-      "url": "/people/2a1dad70-802a-459d-8cc2-4ebd8821248b"
+      "url": "2a1dad70-802a-459d-8cc2-4ebd8821248b"
     },
     {
       "id": "8228751c-bdc1-4b8d-a6eb-ca0eb909568f",
@@ -1199,10 +1199,10 @@
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
-        "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+        "dc2e6bd1-8156-4886-adff-b39e6043af0c"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/8228751c-bdc1-4b8d-a6eb-ca0eb909568f"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "8228751c-bdc1-4b8d-a6eb-ca0eb909568f"
     },
     {
       "id": "1c1a8054-3a34-4185-bfcf-e8011506f09a",
@@ -1212,10 +1212,10 @@
       "eye_color": "Black",
       "hair_color": "Red",
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/1c1a8054-3a34-4185-bfcf-e8011506f09a"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "1c1a8054-3a34-4185-bfcf-e8011506f09a"
     },
     {
       "id": "bc838920-7849-43ea-bfb8-7d5e98dc20b6",
@@ -1225,10 +1225,10 @@
       "eye_color": "Black",
       "hair_color": "Reddish brown",
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/bc838920-7849-43ea-bfb8-7d5e98dc20b6"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "bc838920-7849-43ea-bfb8-7d5e98dc20b6"
     },
     {
       "id": "33f5fea9-c21b-490b-90e0-c4051c372826",
@@ -1238,10 +1238,10 @@
       "eye_color": "Black",
       "hair_color": "Dirty Blond",
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/33f5fea9-c21b-490b-90e0-c4051c372826"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "33f5fea9-c21b-490b-90e0-c4051c372826"
     },
     {
       "id": "d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa",
@@ -1251,10 +1251,10 @@
       "eye_color": "Cyan",
       "hair_color": "Light Gray",
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa"
     },
     {
       "id": "2d66e2eb-5a74-4721-a5b3-c556497bdb66",
@@ -1264,10 +1264,10 @@
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+        "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/2d66e2eb-5a74-4721-a5b3-c556497bdb66"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "2d66e2eb-5a74-4721-a5b3-c556497bdb66"
     },
     {
       "id": "56c94dae-3290-472f-ad2e-0a6444956b51",
@@ -1277,10 +1277,10 @@
       "eye_color": "Brown",
       "hair_color": "Blue",
       "films": [
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+        "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/56c94dae-3290-472f-ad2e-0a6444956b51"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "56c94dae-3290-472f-ad2e-0a6444956b51"
     },
     {
       "id": "5caa6a3c-7d44-47d1-afc6-12fffad28889",
@@ -1290,10 +1290,10 @@
       "eye_color": "NA",
       "hair_color": "Brown",
       "films": [
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+        "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/5caa6a3c-7d44-47d1-afc6-12fffad28889"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "5caa6a3c-7d44-47d1-afc6-12fffad28889"
     },
     {
       "id": "374561e6-aa8e-4d20-8579-806e589c0f31",
@@ -1303,10 +1303,10 @@
       "eye_color": "Brown",
       "hair_color": "Red",
       "films": [
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+        "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/374561e6-aa8e-4d20-8579-806e589c0f31"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "374561e6-aa8e-4d20-8579-806e589c0f31"
     },
     {
       "id": "e9177769-9b6b-49c2-9820-d24f50b83ad9",
@@ -1316,10 +1316,10 @@
       "eye_color": "Green",
       "hair_color": "Black",
       "films": [
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+        "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
-      "species": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "url": "/people/e9177769-9b6b-49c2-9820-d24f50b83ad9"
+      "species": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "e9177769-9b6b-49c2-9820-d24f50b83ad9"
     },
     {
       "id": "835f8c7c-2fc6-4f54-b545-c02ab066cd69",
@@ -1329,10 +1329,10 @@
       "eye_color": "Blue",
       "hair_color": "Blonde",
       "films": [
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+        "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
-      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "url": "/people/835f8c7c-2fc6-4f54-b545-c02ab066cd69"
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "835f8c7c-2fc6-4f54-b545-c02ab066cd69"
     }
   ],
   "locations": [
@@ -1343,13 +1343,13 @@
       "terrain": "Mountain",
       "surface_water": "40",
       "residents": [
-        "/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b",
-        "/people/ba924631-068e-4436-b6de-f3283fa848f0"
+        "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+        "ba924631-068e-4436-b6de-f3283fa848f0"
       ],
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "url": "/locations/11014596-71b0-4b3e-b8c0-1c4b15f28b9a"
+      "url": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a"
     },
     {
       "id": "64a996aa-481e-4627-9624-ab23f59a05a9",
@@ -1358,13 +1358,13 @@
       "terrain": "Hill",
       "surface_water": "50",
       "residents": [
-        "/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b",
-        "/people/ba924631-068e-4436-b6de-f3283fa848f0"
+        "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+        "ba924631-068e-4436-b6de-f3283fa848f0"
       ],
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "url": "/locations/64a996aa-481e-4627-9624-ab23f59a05a9"
+      "url": "64a996aa-481e-4627-9624-ab23f59a05a9"
     },
     {
       "id": "a8bd9c03-7c80-4a97-b7c0-6a668acaf576",
@@ -1373,16 +1373,16 @@
       "terrain": "Plain",
       "surface_water": "30",
       "residents": [
-        "/people/3042818d-a8bb-4cba-8180-c19249822d57",
-        "/people/58d1973f-f247-47d7-9358-e56cb0d2b5a6",
-        "/people/6b3facea-ea33-47b1-96ce-3fc737b119b8",
-        "/people/a3d8e70f-46a0-4e5a-b850-db01620d6b92",
-        "/people/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
+        "3042818d-a8bb-4cba-8180-c19249822d57",
+        "58d1973f-f247-47d7-9358-e56cb0d2b5a6",
+        "6b3facea-ea33-47b1-96ce-3fc737b119b8",
+        "a3d8e70f-46a0-4e5a-b850-db01620d6b92",
+        "fc196c4f-0201-4ed2-9add-c6403f7c4d32"
       ],
       "films": [
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81"
+        "90b72513-afd4-4570-84de-a56c312fdf81"
       ],
-      "url": "/locations/a8bd9c03-7c80-4a97-b7c0-6a668acaf576"
+      "url": "a8bd9c03-7c80-4a97-b7c0-6a668acaf576"
     },
     {
       "id": "56e423c4-d9a1-44c4-8bdb-1cab45fbf63e",
@@ -1392,9 +1392,9 @@
       "surface_water": "60",
       "residents": [],
       "films": [
-        "/films/5fdfb320-2a02-49a7-94ff-5ca418cae602"
+        "5fdfb320-2a02-49a7-94ff-5ca418cae602"
       ],
-      "url": "/locations/56e423c4-d9a1-44c4-8bdb-1cab45fbf63e"
+      "url": "56e423c4-d9a1-44c4-8bdb-1cab45fbf63e"
     },
     {
       "id": "660c8c91-bd92-43db-b475-b2df6ca96fec",
@@ -1404,9 +1404,9 @@
       "surface_water": "40",
       "residents": [],
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "url": "/locations/660c8c91-bd92-43db-b475-b2df6ca96fec"
+      "url": "660c8c91-bd92-43db-b475-b2df6ca96fec"
     },
     {
       "id": "6ba60a86-7c74-4ec4-a6f4-7112b5705a2f",
@@ -1416,9 +1416,9 @@
       "surface_water": "40",
       "residents": [],
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "url": "/locations/6ba60a86-7c74-4ec4-a6f4-7112b5705a2f"
+      "url": "6ba60a86-7c74-4ec4-a6f4-7112b5705a2f"
     },
     {
       "id": "fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2",
@@ -1428,9 +1428,9 @@
       "surface_water": "40",
       "residents": [],
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "url": "/locations/fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2"
+      "url": "fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2"
     },
     {
       "id": "a072ec53-0467-4fac-864f-df234f9c4315",
@@ -1440,9 +1440,9 @@
       "surface_water": "40",
       "residents": [],
       "films": [
-        "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+        "dc2e6bd1-8156-4886-adff-b39e6043af0c"
       ],
-      "url": "/locations/a072ec53-0467-4fac-864f-df234f9c4315"
+      "url": "a072ec53-0467-4fac-864f-df234f9c4315"
     },
     {
       "id": "682df5c3-b09e-46af-94d1-ae0d17f9b4b6",
@@ -1452,10 +1452,10 @@
       "surface_water": "10",
       "residents": [],
       "films": [
-        "/films/45204234-adfd-45cb-a505-a8e7a676b114",
-        "/films/578ae244-7750-4d9f-867b-f3cd3d6fecf4"
+        "45204234-adfd-45cb-a505-a8e7a676b114",
+        "578ae244-7750-4d9f-867b-f3cd3d6fecf4"
       ],
-      "url": "/locations/682df5c3-b09e-46af-94d1-ae0d17f9b4b6"
+      "url": "682df5c3-b09e-46af-94d1-ae0d17f9b4b6"
     },
     {
       "id": "26361a2c-32c6-4bd5-ae9c-8e40e17ae28d",
@@ -1465,9 +1465,9 @@
       "surface_water": "0",
       "residents": [],
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "url": "/locations/26361a2c-32c6-4bd5-ae9c-8e40e17ae28d"
+      "url": "26361a2c-32c6-4bd5-ae9c-8e40e17ae28d"
     },
     {
       "id": "42f787d8-1fcb-4d3d-82f2-a74409869368",
@@ -1477,9 +1477,9 @@
       "surface_water": "0",
       "residents": [],
       "films": [
-        "/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+        "ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
       ],
-      "url": "/locations/42f787d8-1fcb-4d3d-82f2-a74409869368"
+      "url": "42f787d8-1fcb-4d3d-82f2-a74409869368"
     },
     {
       "id": "0fafa7a3-64c1-43fe-881b-ecb605c01e09",
@@ -1489,9 +1489,9 @@
       "surface_water": "40",
       "residents": [],
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "url": "/locations/0fafa7a3-64c1-43fe-881b-ecb605c01e09"
+      "url": "0fafa7a3-64c1-43fe-881b-ecb605c01e09"
     },
     {
       "id": "0132f7f6-fd52-4ac3-b5df-c96b609f77b6",
@@ -1501,9 +1501,9 @@
       "surface_water": "30",
       "residents": [],
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "url": "/locations/0132f7f6-fd52-4ac3-b5df-c96b609f77b6"
+      "url": "0132f7f6-fd52-4ac3-b5df-c96b609f77b6"
     },
     {
       "id": "c57fb2cb-ea85-4d73-8808-cf5dcd28c22e",
@@ -1513,9 +1513,9 @@
       "surface_water": "50",
       "residents": [],
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "url": "/locations/c57fb2cb-ea85-4d73-8808-cf5dcd28c22e"
+      "url": "c57fb2cb-ea85-4d73-8808-cf5dcd28c22e"
     },
     {
       "id": "615aa48d-8673-4117-b35a-79cb67af1897",
@@ -1525,9 +1525,9 @@
       "surface_water": "60",
       "residents": [],
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ],
-      "url": "/locations/615aa48d-8673-4117-b35a-79cb67af1897"
+      "url": "615aa48d-8673-4117-b35a-79cb67af1897"
     },
     {
       "id": "37d13a96-a03a-451d-8871-80be0495486e",
@@ -1537,9 +1537,9 @@
       "surface_water": "70",
       "residents": [],
       "films": [
-        "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+        "dc2e6bd1-8156-4886-adff-b39e6043af0c"
       ],
-      "url": "/locations/37d13a96-a03a-451d-8871-80be0495486e"
+      "url": "37d13a96-a03a-451d-8871-80be0495486e"
     },
     {
       "id": "6fc21b76-78fb-4451-98f7-857e32a23e85",
@@ -1549,9 +1549,9 @@
       "surface_water": "60",
       "residents": [],
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "url": "/locations/6fc21b76-78fb-4451-98f7-857e32a23e85"
+      "url": "6fc21b76-78fb-4451-98f7-857e32a23e85"
     },
     {
       "id": "dbeeaecb-7817-4b8b-90ca-edc432d3033e",
@@ -1561,9 +1561,9 @@
       "surface_water": "40",
       "residents": [],
       "films": [
-        "/films/4e236f34-b981-41c3-8c65-f8c9000b94e7"
+        "4e236f34-b981-41c3-8c65-f8c9000b94e7"
       ],
-      "url": "/locations/dbeeaecb-7817-4b8b-90ca-edc432d3033e"
+      "url": "dbeeaecb-7817-4b8b-90ca-edc432d3033e"
     },
     {
       "id": "34df8f25-8f80-4823-8f01-bf9852039987",
@@ -1573,9 +1573,9 @@
       "surface_water": "40",
       "residents": [],
       "films": [
-        "/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8"
+        "ebbb6b7c-945c-41ee-a792-de0e43191bd8"
       ],
-      "url": "/locations/34df8f25-8f80-4823-8f01-bf9852039987"
+      "url": "34df8f25-8f80-4823-8f01-bf9852039987"
     },
     {
       "id": "62346d33-caa0-4c17-8016-0aca56f3066b",
@@ -1585,9 +1585,9 @@
       "surface_water": "30",
       "residents": [],
       "films": [
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
       ],
-      "url": "/locations/62346d33-caa0-4c17-8016-0aca56f3066b"
+      "url": "62346d33-caa0-4c17-8016-0aca56f3066b"
     },
     {
       "id": "ee897b2a-405e-42b9-bff4-8b51b0f03cab",
@@ -1597,9 +1597,9 @@
       "surface_water": "60",
       "residents": [],
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ],
-      "url": "/locations/ee897b2a-405e-42b9-bff4-8b51b0f03cab"
+      "url": "ee897b2a-405e-42b9-bff4-8b51b0f03cab"
     },
     {
       "id": "90241c46-d4be-411f-b00a-7561b9dda7b6",
@@ -1609,9 +1609,9 @@
       "surface_water": "100",
       "residents": [],
       "films": [
-        "/films/758bf02e-3122-46e0-884e-67cf83df1786"
+        "758bf02e-3122-46e0-884e-67cf83df1786"
       ],
-      "url": "/locations/90241c46-d4be-411f-b00a-7561b9dda7b6"
+      "url": "90241c46-d4be-411f-b00a-7561b9dda7b6"
     },
     {
       "id": "469b14bd-5565-4436-bbed-c2036f42cc99",
@@ -1621,9 +1621,9 @@
       "surface_water": "50",
       "residents": [],
       "films": [
-        "/films/758bf02e-3122-46e0-884e-67cf83df1786"
+        "758bf02e-3122-46e0-884e-67cf83df1786"
       ],
-      "url": "/locations/469b14bd-5565-4436-bbed-c2036f42cc99"
+      "url": "469b14bd-5565-4436-bbed-c2036f42cc99"
     },
     {
       "id": "b6bac992-a858-4d57-8477-9652d73caaa1",
@@ -1633,9 +1633,9 @@
       "surface_water": "30",
       "residents": [],
       "films": [
-        "/films/cd3d059c-09f4-4ff3-8d63-bc765a5184fa"
+        "cd3d059c-09f4-4ff3-8d63-bc765a5184fa"
       ],
-      "url": "/locations/b6bac992-a858-4d57-8477-9652d73caaa1"
+      "url": "b6bac992-a858-4d57-8477-9652d73caaa1"
     },
     {
       "id": "398e3e1e-9912-4eb6-91fe-a9f8b932b67d",
@@ -1644,13 +1644,13 @@
       "terrain": "City",
       "surface_water": "",
       "residents": [
-        "/people/2d66e2eb-5a74-4721-a5b3-c556497bdb66",
-        "/people/835f8c7c-2fc6-4f54-b545-c02ab066cd69"
+        "2d66e2eb-5a74-4721-a5b3-c556497bdb66",
+        "835f8c7c-2fc6-4f54-b545-c02ab066cd69"
       ],
       "films": [
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40"
+        "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
-      "url": "/locations/398e3e1e-9912-4eb6-91fe-a9f8b932b67d"
+      "url": "398e3e1e-9912-4eb6-91fe-a9f8b932b67d"
     }
   ],
   "species": [
@@ -1661,71 +1661,71 @@
       "eye_colors": "Black, Blue, Brown, Grey, Green, Hazel",
       "hair_colors": "Black, Blonde, Brown, Grey, White",
       "people": [
-        "/people/05d8d01b-0c2f-450e-9c55-aa0daa34838e",
-        "/people/08ffbce4-7f94-476a-95bc-76d3c3969c19",
-        "/people/0f8ef701-b4c7-4f15-bd15-368c7fe38d0a",
-        "/people/116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
-        "/people/1c1a8054-3a34-4185-bfcf-e8011506f09a",
-        "/people/20e3bd33-b35d-41e6-83a4-57ca7f028d38",
-        "/people/2409052a-9029-4e8d-bfaf-70fd82c8e48d",
-        "/people/2cb76c15-772a-4cb3-9919-3652f56611d0",
-        "/people/2d66e2eb-5a74-4721-a5b3-c556497bdb66",
-        "/people/3031caa8-eb1a-41c6-ab93-dd091b541e11",
-        "/people/33f5fea9-c21b-490b-90e0-c4051c372826",
-        "/people/34277bec-7401-43fa-a00a-5aee64b45b08",
-        "/people/374561e6-aa8e-4d20-8579-806e589c0f31",
-        "/people/3bc0b41e-3569-4d20-ae73-2da329bf0786",
-        "/people/3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
-        "/people/40c005ce-3725-4f15-8409-3e1b1b14b583",
-        "/people/56c94dae-3290-472f-ad2e-0a6444956b51",
-        "/people/598f7048-74ff-41e0-92ef-87dc1ad980a9",
-        "/people/5c83c12a-62d5-4e92-8672-33ac76ae1fa0",
-        "/people/5caa6a3c-7d44-47d1-afc6-12fffad28889",
-        "/people/6523068d-f5a9-4150-bf5b-76abe6fb42c3",
-        "/people/8228751c-bdc1-4b8d-a6eb-ca0eb909568f",
-        "/people/835f8c7c-2fc6-4f54-b545-c02ab066cd69",
-        "/people/87b68b97-3774-495b-bf80-495a5f3e672d",
-        "/people/8bccdc78-545b-49f4-a4c8-756163a38c91",
-        "/people/91939012-90b9-46e5-a649-96b898073c82",
-        "/people/986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
-        "/people/a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
-        "/people/abe886e7-30c8-4c19-aaa5-d666e60d14de",
-        "/people/b22a684f-1819-40c8-94a6-d40c3b5e18eb",
-        "/people/ba924631-068e-4436-b6de-f3283fa848f0",
-        "/people/bc838920-7849-43ea-bfb8-7d5e98dc20b6",
-        "/people/d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa",
-        "/people/d5df3c04-f355-4038-833c-83bd3502b6b9",
-        "/people/e08880d0-6938-44f3-b179-81947e7873fc",
-        "/people/e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
-        "/people/ebe40383-aad2-4208-90ab-698f00c581ab",
-        "/people/f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
-        "/people/fcb4a2ac-5e41-4d54-9bba-33068db083ca",
-        "/people/fe93adf2-2f3a-4ec4-9f68-5422f1b87c01"
+        "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
+        "08ffbce4-7f94-476a-95bc-76d3c3969c19",
+        "0f8ef701-b4c7-4f15-bd15-368c7fe38d0a",
+        "116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
+        "1c1a8054-3a34-4185-bfcf-e8011506f09a",
+        "20e3bd33-b35d-41e6-83a4-57ca7f028d38",
+        "2409052a-9029-4e8d-bfaf-70fd82c8e48d",
+        "2cb76c15-772a-4cb3-9919-3652f56611d0",
+        "2d66e2eb-5a74-4721-a5b3-c556497bdb66",
+        "3031caa8-eb1a-41c6-ab93-dd091b541e11",
+        "33f5fea9-c21b-490b-90e0-c4051c372826",
+        "34277bec-7401-43fa-a00a-5aee64b45b08",
+        "374561e6-aa8e-4d20-8579-806e589c0f31",
+        "3bc0b41e-3569-4d20-ae73-2da329bf0786",
+        "3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
+        "40c005ce-3725-4f15-8409-3e1b1b14b583",
+        "56c94dae-3290-472f-ad2e-0a6444956b51",
+        "598f7048-74ff-41e0-92ef-87dc1ad980a9",
+        "5c83c12a-62d5-4e92-8672-33ac76ae1fa0",
+        "5caa6a3c-7d44-47d1-afc6-12fffad28889",
+        "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
+        "8228751c-bdc1-4b8d-a6eb-ca0eb909568f",
+        "835f8c7c-2fc6-4f54-b545-c02ab066cd69",
+        "87b68b97-3774-495b-bf80-495a5f3e672d",
+        "8bccdc78-545b-49f4-a4c8-756163a38c91",
+        "91939012-90b9-46e5-a649-96b898073c82",
+        "986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
+        "a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
+        "abe886e7-30c8-4c19-aaa5-d666e60d14de",
+        "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+        "ba924631-068e-4436-b6de-f3283fa848f0",
+        "bc838920-7849-43ea-bfb8-7d5e98dc20b6",
+        "d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa",
+        "d5df3c04-f355-4038-833c-83bd3502b6b9",
+        "e08880d0-6938-44f3-b179-81947e7873fc",
+        "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+        "ebe40383-aad2-4208-90ab-698f00c581ab",
+        "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
+        "fcb4a2ac-5e41-4d54-9bba-33068db083ca",
+        "fe93adf2-2f3a-4ec4-9f68-5422f1b87c01"
       ],
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6",
-        "/films/112c1e67-726f-40b1-ac17-6974127bb9b9",
-        "/films/12cfb892-aac0-4c5b-94af-521852e46d6a",
-        "/films/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c",
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe",
-        "/films/2de9426b-914a-4a06-a3a0-5e6d9d3886f6",
-        "/films/45204234-adfd-45cb-a505-a8e7a676b114",
-        "/films/45db04e4-304a-4933-9823-33f389e8d74d",
-        "/films/4e236f34-b981-41c3-8c65-f8c9000b94e7",
-        "/films/578ae244-7750-4d9f-867b-f3cd3d6fecf4",
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49",
-        "/films/5fdfb320-2a02-49a7-94ff-5ca418cae602",
-        "/films/67405111-37a5-438f-81cc-4666af60c800",
-        "/films/758bf02e-3122-46e0-884e-67cf83df1786",
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40",
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81",
-        "/films/cd3d059c-09f4-4ff3-8d63-bc765a5184fa",
-        "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c",
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
-        "/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8",
-        "/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6",
+        "112c1e67-726f-40b1-ac17-6974127bb9b9",
+        "12cfb892-aac0-4c5b-94af-521852e46d6a",
+        "1b67aa9a-2e4a-45af-ac98-64d6ad15b16c",
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+        "2de9426b-914a-4a06-a3a0-5e6d9d3886f6",
+        "45204234-adfd-45cb-a505-a8e7a676b114",
+        "45db04e4-304a-4933-9823-33f389e8d74d",
+        "4e236f34-b981-41c3-8c65-f8c9000b94e7",
+        "578ae244-7750-4d9f-867b-f3cd3d6fecf4",
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+        "5fdfb320-2a02-49a7-94ff-5ca418cae602",
+        "67405111-37a5-438f-81cc-4666af60c800",
+        "758bf02e-3122-46e0-884e-67cf83df1786",
+        "790e0028-a31c-4626-a694-86b7a8cada40",
+        "90b72513-afd4-4570-84de-a56c312fdf81",
+        "cd3d059c-09f4-4ff3-8d63-bc765a5184fa",
+        "dc2e6bd1-8156-4886-adff-b39e6043af0c",
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+        "ebbb6b7c-945c-41ee-a792-de0e43191bd8",
+        "ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
       ],
-      "url": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+      "url": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
     },
     {
       "id": "6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
@@ -1733,13 +1733,13 @@
       "classification": "Elk",
       "eye_colors": "Black, Red",
       "hair_colors": "Brown, Light Orange",
-      "url": "/species/6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
+      "url": "6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
       "people": [
-        "/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b",
-        "/people/ca568e87-4ce2-4afa-a6c5-51f4ae80a60b"
+        "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+        "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b"
       ],
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ]
     },
     {
@@ -1748,12 +1748,12 @@
       "classification": "Spirit",
       "eye_colors": "Red",
       "hair_colors": "Light Orange",
-      "url": "/species/b5a92d0e-5fb4-43d4-ba60-c012135958e4",
+      "url": "b5a92d0e-5fb4-43d4-ba60-c012135958e4",
       "people": [
-        "/people/ca568e87-4ce2-4afa-a6c5-51f4ae80a60b"
+        "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b"
       ],
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ]
     },
     {
@@ -1762,12 +1762,12 @@
       "classification": "God",
       "eye_colors": "Brown",
       "hair_colors": "White",
-      "url": "/species/f25fa661-3073-414d-968a-ab062e3065f7",
+      "url": "f25fa661-3073-414d-968a-ab062e3065f7",
       "people": [
-        "/people/e9356bb5-4d4a-4c93-aadc-c83e514bffe3"
+        "e9356bb5-4d4a-4c93-aadc-c83e514bffe3"
       ],
       "films": [
-        "/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
       ]
     },
     {
@@ -1776,26 +1776,26 @@
       "classification": "Mammal",
       "eye_colors": "Brown, Black, Yellow, White, Emerald, Blue, Green",
       "hair_colors": "White, Black, Brown, Beige, Grey, Yellow",
-      "url": "/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "603428ba-8a86-4b0b-a9f1-65df6abef3d3",
       "people": [
-        "/people/3042818d-a8bb-4cba-8180-c19249822d57",
-        "/people/466bc926-2024-4653-ac63-fe52f2dc8c7b",
-        "/people/58d1973f-f247-47d7-9358-e56cb0d2b5a6",
-        "/people/6b3facea-ea33-47b1-96ce-3fc737b119b8",
-        "/people/7151abc6-1a9e-4e6a-9711-ddb50ea572ec",
-        "/people/89026b3a-abc4-4053-ab1a-c6d2eea68faa",
-        "/people/a3d8e70f-46a0-4e5a-b850-db01620d6b92",
-        "/people/e9177769-9b6b-49c2-9820-d24f50b83ad9",
-        "/people/f467e18e-3694-409f-bdb3-be891ade1106",
-        "/people/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
+        "3042818d-a8bb-4cba-8180-c19249822d57",
+        "466bc926-2024-4653-ac63-fe52f2dc8c7b",
+        "58d1973f-f247-47d7-9358-e56cb0d2b5a6",
+        "6b3facea-ea33-47b1-96ce-3fc737b119b8",
+        "7151abc6-1a9e-4e6a-9711-ddb50ea572ec",
+        "89026b3a-abc4-4053-ab1a-c6d2eea68faa",
+        "a3d8e70f-46a0-4e5a-b850-db01620d6b92",
+        "e9177769-9b6b-49c2-9820-d24f50b83ad9",
+        "f467e18e-3694-409f-bdb3-be891ade1106",
+        "fc196c4f-0201-4ed2-9add-c6403f7c4d32"
       ],
       "films": [
-        "/films/2de9426b-914a-4a06-a3a0-5e6d9d3886f6",
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49",
-        "/films/790e0028-a31c-4626-a694-86b7a8cada40",
-        "/films/90b72513-afd4-4570-84de-a56c312fdf81",
-        "/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
-        "/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+        "2de9426b-914a-4a06-a3a0-5e6d9d3886f6",
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+        "790e0028-a31c-4626-a694-86b7a8cada40",
+        "90b72513-afd4-4570-84de-a56c312fdf81",
+        "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+        "ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
       ]
     },
     {
@@ -1804,14 +1804,14 @@
       "classification": "Mammal",
       "eye_colors": "Grey",
       "hair_colors": "Grey",
-      "url": "/species/74b7f547-1577-4430-806c-c358c8b6bcf5",
+      "url": "74b7f547-1577-4430-806c-c358c8b6bcf5",
       "people": [
-        "/people/591524bc-04fe-4e60-8d61-2425e42ffb2a",
-        "/people/c491755a-407d-4d6e-b58a-240ec78b5061",
-        "/people/d39deecb-2bd0-4770-8b45-485f26e1381f"
+        "591524bc-04fe-4e60-8d61-2425e42ffb2a",
+        "c491755a-407d-4d6e-b58a-240ec78b5061",
+        "d39deecb-2bd0-4770-8b45-485f26e1381f"
       ],
       "films": [
-        "/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
       ]
     },
     {
@@ -1820,13 +1820,13 @@
       "classification": "Dragon",
       "eye_colors": "Orange, Green, Red",
       "hair_colors": "White, Green, Gray",
-      "url": "/species/e2cfaa78-fb19-11eb-9a03-0242ac130003",
+      "url": "e2cfaa78-fb19-11eb-9a03-0242ac130003",
       "people": [
-        "/people/267649ac-fb1b-11eb-9a03-0242ac130003"
+        "267649ac-fb1b-11eb-9a03-0242ac130003"
       ],
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe",
-        "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+        "dc2e6bd1-8156-4886-adff-b39e6043af0c"
       ]
     }
   ],
@@ -1837,11 +1837,11 @@
       "description": "A military airship utilized by the government to access Laputa",
       "vehicle_class": "Airship",
       "length": "1000",
-      "pilot": "/people/40c005ce-3725-4f15-8409-3e1b1b14b583",
+      "pilot": "40c005ce-3725-4f15-8409-3e1b1b14b583",
       "films": [
-        "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        "2baf70d1-42bb-4437-b551-e5fed5a87abe"
       ],
-      "url": "/vehicles/4e09b023-f650-4747-9ab9-eacf14540cfb"
+      "url": "4e09b023-f650-4747-9ab9-eacf14540cfb"
     },
     {
       "id": "d8f893b5-1dd9-41a1-9918-0099c1aa2de8",
@@ -1849,11 +1849,11 @@
       "description": "An experimental aircraft captured by Porco. Named Savoia S.21",
       "vehicle_class": "Airplane",
       "length": "20",
-      "pilot": "/people/6523068d-f5a9-4150-bf5b-76abe6fb42c3",
+      "pilot": "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
       "films": [
-        "/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8"
+        "ebbb6b7c-945c-41ee-a792-de0e43191bd8"
       ],
-      "url": "/vehicles/d8f893b5-1dd9-41a1-9918-0099c1aa2de8"
+      "url": "d8f893b5-1dd9-41a1-9918-0099c1aa2de8"
     },
     {
       "id": "923d70c9-8f15-4972-ad53-0128b261d628",
@@ -1861,11 +1861,11 @@
       "description": "A toy boat where Sosuke plays",
       "vehicle_class": "Boat",
       "length": "10",
-      "pilot": "/people/a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
+      "pilot": "a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
       "films": [
-        "/films/758bf02e-3122-46e0-884e-67cf83df1786"
+        "758bf02e-3122-46e0-884e-67cf83df1786"
       ],
-      "url": "/vehicles/923d70c9-8f15-4972-ad53-0128b261d628"
+      "url": "923d70c9-8f15-4972-ad53-0128b261d628"
     }
   ]
 }
