@@ -1,6 +1,6 @@
-namespace GhibliApiNet.Api.Models.Domain;
+namespace GhibliApiNet.Api.Models.Dtos;
 
-public class Person
+public class PersonResponse
 {
     public required string Id { get; set; }
     public required string Name { get; set; }
@@ -8,6 +8,4 @@ public class Person
     public string? Age { get; set; }
     public string? EyeColor { get; set; }
     public string? HairColor { get; set; }
-    public List<Film>? Films { get; set; }
-    public Species? Species { get; set; }
 }
