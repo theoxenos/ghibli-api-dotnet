@@ -1,12 +1,10 @@
-namespace GhibliApiNet.Api.Models.Domain;
+namespace GhibliApiNet.Api.Models.Dtos;
 
-public class Location
+public class LocationResponse
 {
     public required string Id { get; set; }
     public required string Name { get; set; }
     public string? Climate { get; set; }
     public string? Terrain { get; set; }
     public int? SurfaceWater { get; set; }
-    public List<Person>? Residents { get; set; }
-    public List<Film>? Films { get; set; }
 }

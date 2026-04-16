@@ -1,12 +1,10 @@
-namespace GhibliApiNet.Api.Models.Domain;
+namespace GhibliApiNet.Api.Models.Dtos;
 
-public class Species
+public class SpeciesResponse
 {
     public required string Id { get; set; }
     public required string Name { get; set; }
     public string? Classification { get; set; }
     public string? EyeColors { get; set; }
     public string? HairColors { get; set; }
-    public List<Person>? People { get; set; }
-    public List<Film>? Films { get; set; }
 }
