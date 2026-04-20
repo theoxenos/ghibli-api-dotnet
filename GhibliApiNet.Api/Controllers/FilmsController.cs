@@ -11,10 +11,13 @@ namespace GhibliApiNet.Api.Controllers;
 public class FilmsController(ApplicationDbContext dbContext) : ControllerBase
 {
     [HttpGet]
-    public async Task<ActionResult<List<Film>>> GetAllFilms([FromQuery] string? title)
+    public async Task<ActionResult<List<Film>>> GetAllFilms([FromQuery] string? title, [FromQuery] string? director,
+        [FromQuery] string? producer)
     {
         var films = await dbContext.Films
             .Where(f => string.IsNullOrEmpty(title) || f.Title.ToLower().Contains(title.ToLower()))
+            .Where(f => string.IsNullOrEmpty(director) || f.Director.ToLower().Contains(director.ToLower()))
+            .Where(f => string.IsNullOrEmpty(producer) || f.Producer.ToLower().Contains(producer.ToLower()))
             .OrderBy(f => f.ReleaseDate)
             .ToListAsync();
         return films;
