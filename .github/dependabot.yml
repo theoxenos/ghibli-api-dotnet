@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "nuget"
+    directory: "/GhibliApiNet.Api"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "nuget"
+    directory: "/GhibliApiNet.Api.MongoDb"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "nuget"
+    directory: "/ConvertJsonToSqlite"
+    schedule:
+      interval: "weekly"
