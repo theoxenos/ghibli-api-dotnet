@@ -2,22 +2,24 @@
 
 A .NET 10 REST API providing structured access to Studio Ghibli films, characters, species, locations, and vehicles. The project serves resource endpoints backed by an embedded SQLite database using Entity Framework Core.
 
-### Interesting Techniques
+### Controllers and Endpoints
 
-- **Dynamic Query Filtering**: The [`FilmsController`](./GhibliApiNet.Api/Controllers/FilmsController.cs) applies dynamic LINQ filtering on title, director, and producer based on optional [URL query parameters](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams).
-- **Relational Eager Loading and DTO Projections**: Related entities (people, species, locations, vehicles) are eagerly loaded via EF Core `.Include()` and projected into flat Data Transfer Objects ([`Dtos`](./GhibliApiNet.Api/Models/Dtos)) to prevent circular references and maintain clean API contracts.
-- **Change Tracker Entity Updates**: The [`PUT`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT) endpoint in [`FilmsController`](./GhibliApiNet.Api/Controllers/FilmsController.cs) uses `DbContext.Entry().CurrentValues.SetValues()` to update modified fields directly from the DTO without manual property mapping.
-- **Semantic HTTP Status Handling**: Endpoints validate incoming identifiers and return appropriate [HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) including [`200 OK`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200), [`400 Bad Request`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400), and [`404 Not Found`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404).
-- **Primary Constructors**: Controllers and database contexts utilize modern C# primary constructor syntax to inject dependencies without explicit private field declarations.
-- **Direct JSON Content Negotiation**: Endpoints process and return structured payloads using standard [`application/json`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type) representations.
+All API routes use the `api/[controller]` route pattern and return JSON responses.
 
-### Non-Obvious Technologies and External Libraries
+- [`FilmsController`](./GhibliApiNet.Api/Controllers/FilmsController.cs): `GET /api/films` returns all films and supports optional `title`, `director`, and `producer` query filters. `GET /api/films/{id}` returns a film with its related people, species, locations, and vehicles. `PUT /api/films/{id}` updates an existing film.
+- [`PeopleController`](./GhibliApiNet.Api/Controllers/PeopleController.cs): `GET /api/people` returns all people, while `GET /api/people/{id}` returns one person.
+- [`LocationsController`](./GhibliApiNet.Api/Controllers/LocationsController.cs): `GET /api/locations` returns all locations, while `GET /api/locations/{id}` returns one location.
+- [`SpeciesController`](./GhibliApiNet.Api/Controllers/SpeciesController.cs): `GET /api/species` returns all species, while `GET /api/species/{id}` returns one species.
+- [`VehiclesController`](./GhibliApiNet.Api/Controllers/VehiclesController.cs): `GET /api/vehicles` returns all vehicles, while `GET /api/vehicles/{id}` returns one vehicle.
 
-- [Scalar](https://github.com/scalar/scalar) ([`Scalar.AspNetCore`](https://www.nuget.org/packages/Scalar.AspNetCore)): Modern interactive OpenAPI UI integrated via `app.MapScalarApiReference()` to provide a fast alternative to Swagger UI.
+The collection endpoints return complete resource lists. The identifier endpoints return a single resource or a `404 Not Found` response when the requested identifier does not exist. Invalid request data returns `400 Bad Request`.
+
+### External Libraries
+
+- [Scalar](https://github.com/scalar/scalar) ([`Scalar.AspNetCore`](https://www.nuget.org/packages/Scalar.AspNetCore)): Interactive OpenAPI documentation. Start the API in the Development environment, then open [Scalar at `https://localhost:7126/scalar/v1`](https://localhost:7126/scalar/v1) or [Scalar at `http://localhost:5099/scalar/v1`](http://localhost:5099/scalar/v1) in a browser.
 - [Microsoft.AspNetCore.OpenApi](https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi): Built-in ASP.NET Core OpenAPI metadata generation.
 - [Entity Framework Core SQLite](https://learn.microsoft.com/ef/core/) ([`Microsoft.EntityFrameworkCore.Sqlite`](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Sqlite)): Embedded SQLite relational database provider.
 - [.NET HTTP Client Files](https://www.jetbrains.com/help/rider/HTTP_Client_in_Editor_tool_window.html): Integrated `.http` specification files ([`films.http`](./GhibliApiNet.Api/films.http), [`people.http`](./GhibliApiNet.Api/people.http), [`locations.http`](./GhibliApiNet.Api/locations.http), [`species.http`](./GhibliApiNet.Api/species.http), [`vehicles.http`](./GhibliApiNet.Api/vehicles.http)) allowing in-editor request execution without external API clients.
-- **Fonts**: As a headless backend API, no custom web fonts or typography packages are bundled.
 
 ### Project Structure
 
