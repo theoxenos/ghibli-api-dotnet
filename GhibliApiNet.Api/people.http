@@ -1,4 +1,0 @@
-@baseUrl = http://localhost:5099/api/people
-
-###
-GET {{baseUrl}}/
