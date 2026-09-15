@@ -1,9 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhibliApiNet.Api.MongoDb", "GhibliApiNet.Api.MongoDb\GhibliApiNet.Api.MongoDb.csproj", "{E37971F0-5D70-4AFF-8FC9-1F91DEF65BA5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhibliApiNet.Api", "GhibliApiNet.Api\GhibliApiNet.Api.csproj", "{DAB52736-CD5C-429F-AF53-647E68D09A1B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertJsonToSqlite", "ConvertJsonToSqlite\ConvertJsonToSqlite.csproj", "{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}"
 EndProject
 Global
@@ -12,14 +8,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E37971F0-5D70-4AFF-8FC9-1F91DEF65BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E37971F0-5D70-4AFF-8FC9-1F91DEF65BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E37971F0-5D70-4AFF-8FC9-1F91DEF65BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E37971F0-5D70-4AFF-8FC9-1F91DEF65BA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DAB52736-CD5C-429F-AF53-647E68D09A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAB52736-CD5C-429F-AF53-647E68D09A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAB52736-CD5C-429F-AF53-647E68D09A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAB52736-CD5C-429F-AF53-647E68D09A1B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40808B73-5FBB-4F4D-A4A5-25F7C12B2725}.Release|Any CPU.ActiveCfg = Release|Any CPU
