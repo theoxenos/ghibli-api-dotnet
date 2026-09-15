@@ -1,6 +1,34 @@
 {
   "films": [
     {
+      "id": "b8868098-8d2d-4168-8286-eb3979b304d5",
+      "title": "Nausicaä of the Valley of the Wind",
+      "originalTitle": "風の谷のナウシカ",
+      "originalTitleRomanised": "Kaze no Tani no Nausicaä",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+      "movieBanner": "https://image.tmdb.org/t/p/original/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+      "description": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+      "director": "Hayao Miyazaki",
+      "producer": "Isao Takahata",
+      "releaseDate": 1984,
+      "runningTime": 117,
+      "rtScore": 91,
+      "people": [
+        "8a3ec5a6-c12c-43db-b851-81349ab8148a",
+        "f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
+      ],
+      "species": [
+        "f3c8a2e9-1b5d-4c7e-9a3f-6d2b8e1c5a94"
+      ],
+      "locations": [
+        "52602162-4001-4255-89b3-6c896b84b70e"
+      ],
+      "vehicles": [
+        "5f8a2d36-0e04-4c4d-bd81-0f03c761d859"
+      ],
+      "url": "b8868098-8d2d-4168-8286-eb3979b304d5"
+    },
+    {
       "id": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
       "title": "Castle in the Sky",
       "original_title": "天空の城ラピュタ",
@@ -1333,6 +1361,32 @@
       ],
       "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
       "url": "835f8c7c-2fc6-4f54-b545-c02ab066cd69"
+    },
+    {
+      "id": "8a3ec5a6-c12c-43db-b851-81349ab8148a",
+      "name": "Nausicaä",
+      "gender": "Female",
+      "age": "16",
+      "eye_color": "Blue",
+      "hair_color": "Blonde",
+      "films": [
+        "7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ],
+      "species": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "8a3ec5a6-c12c-43db-b851-81349ab8148a"
+    },
+    {
+      "id": "f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93",
+      "name": "Teto",
+      "gender": "Male",
+      "age": "NA",
+      "eye_color": "Black",
+      "hair_color": "Red, Orange",
+      "films": [
+        "7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ],
+      "species": "f3c8a2e9-1b5d-4c7e-9a3f-6d2b8e1c5a94",
+      "url": "f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
     }
   ],
   "locations": [
@@ -1651,6 +1705,21 @@
         "790e0028-a31c-4626-a694-86b7a8cada40"
       ],
       "url": "398e3e1e-9912-4eb6-91fe-a9f8b932b67d"
+    },
+    {
+      "id": "52602162-4001-4255-89b3-6c896b84b70e",
+      "name": "Valley of the Wind",
+      "climate": "Temperate",
+      "terrain": "Valley",
+      "surface_water": "35",
+      "residents": [
+        "8a3ec5a6-c12c-43db-b851-81349ab8148a",
+        "f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
+      ],
+      "films": [
+        "7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ],
+      "url": "52602162-4001-4255-89b3-6c896b84b70e"
     }
   ],
   "species": [
@@ -1723,7 +1792,8 @@
         "dc2e6bd1-8156-4886-adff-b39e6043af0c",
         "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
         "ebbb6b7c-945c-41ee-a792-de0e43191bd8",
-        "ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+        "ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
+        "b8868098-8d2d-4168-8286-eb3979b304d5"
       ],
       "url": "af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
     },
@@ -1828,6 +1898,21 @@
         "2baf70d1-42bb-4437-b551-e5fed5a87abe",
         "dc2e6bd1-8156-4886-adff-b39e6043af0c"
       ]
+    },
+    {
+      "id": "f3c8a2e9-1b5d-4c7e-9a3f-6d2b8e1c5a94",
+      "name": "Fox Squirrel",
+      "classification": "Flying Squirrel Mammal",
+      "eye_colors": "Black",
+      "hair_colors": "Red, Orange, Brown",
+      "url": "f3c8a2e9-1b5d-4c7e-9a3f-6d2b8e1c5a94",
+      "people": [
+        "c9a3f8e1-4d2b-5c7a-9e1f-8b3d6a2c9f54",
+        "f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
+      ],
+      "films": [
+        "7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ]
     }
   ],
   "vehicles": [
@@ -1866,6 +1951,18 @@
         "758bf02e-3122-46e0-884e-67cf83df1786"
       ],
       "url": "923d70c9-8f15-4972-ad53-0128b261d628"
+    },
+    {
+      "id": "5f8a2d36-0e04-4c4d-bd81-0f03c761d859",
+      "name": "Möwe",
+      "description": "A jet-assisted glider used by Nausicaä for exploration and wind riding across the toxic jungle",
+      "vehicle_class": "Glider",
+      "length": "5",
+      "pilot": "8a3ec5a6-c12c-43db-b851-81349ab8148a",
+      "films": [
+        "b8868098-8d2d-4168-8286-eb3979b304d5"
+      ],
+      "url": "5f8a2d36-0e04-4c4d-bd81-0f03c761d859"
     }
   ]
 }
