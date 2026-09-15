@@ -18,7 +18,9 @@
         "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
       ],
       "locations": [],
-      "vehicles": [],
+      "vehicles": [
+        "/vehicles/5f8a2d36-0e04-4c4d-bd81-0f03c761d859"
+      ],
       "url": "/films/b8868098-8d2d-4168-8286-eb3979b304d5"
     },
     {
@@ -1354,6 +1356,34 @@
       ],
       "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
       "url": "/people/835f8c7c-2fc6-4f54-b545-c02ab066cd69"
+    },
+    {
+      "id": "8a3ec5a6-c12c-43db-b851-81349ab8148a",
+      "name": "Nausicaä",
+      "gender": "Female",
+      "age": "16",
+      "eye_color": "Blue",
+      "hair_color": "Blonde",
+      "films": [
+        "/films/7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ],
+      "species": "/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "/people/8a3ec5a6-c12c-43db-b851-81349ab8148a"
+    },
+    {
+      "id": "f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93",
+      "name": "Teto",
+      "gender": "Male",
+      "age": "NA",
+      "eye_color": "Black",
+      "hair_color": "Red, Orange",
+      "films": [
+        "/films/7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ],
+      "species": [
+        "/species/f3c8a2e9-1b5d-4c7e-9a3f-6d2b8e1c5a94"
+      ],
+      "url": "/people/f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
     }
   ],
   "locations": [
@@ -1672,6 +1702,21 @@
         "/films/790e0028-a31c-4626-a694-86b7a8cada40"
       ],
       "url": "/locations/398e3e1e-9912-4eb6-91fe-a9f8b932b67d"
+    },
+    {
+      "id": "52602162-4001-4255-89b3-6c896b84b70e",
+      "name": "Valley of the Wind",
+      "climate": "Temperate",
+      "terrain": "Valley",
+      "surface_water": "35",
+      "residents": [
+        "/people/8a3ec5a6-c12c-43db-b851-81349ab8148a",
+        "/people/f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
+      ],
+      "films": [
+        "/films/7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ],
+      "url": "/locations/52602162-4001-4255-89b3-6c896b84b70e"
     }
   ],
   "species": [
@@ -1849,6 +1894,21 @@
         "/films/2baf70d1-42bb-4437-b551-e5fed5a87abe",
         "/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
       ]
+    },
+    {
+      "id": "f3c8a2e9-1b5d-4c7e-9a3f-6d2b8e1c5a94",
+      "name": "Fox Squirrel",
+      "classification": "Flying Squirrel Mammal",
+      "eye_colors": "Black",
+      "hair_colors": "Red, Orange, Brown",
+      "url": "/species/f3c8a2e9-1b5d-4c7e-9a3f-6d2b8e1c5a94",
+      "people": [
+        "/people/c9a3f8e1-4d2b-5c7a-9e1f-8b3d6a2c9f54",
+        "/people/f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
+      ],
+      "films": [
+        "/films/7b3f8e1c-9a2d-4f5b-8c7e-1d9a6f3b2c85"
+      ]
     }
   ],
   "vehicles": [
@@ -1887,6 +1947,20 @@
         "/films/758bf02e-3122-46e0-884e-67cf83df1786"
       ],
       "url": "/vehicles/923d70c9-8f15-4972-ad53-0128b261d628"
+    },
+    {
+      "id": "5f8a2d36-0e04-4c4d-bd81-0f03c761d859",
+      "name": "Möwe",
+      "description": "A jet-assisted glider used by Nausicaä for exploration and wind riding across the toxic jungle",
+      "vehicle_class": "Glider",
+      "length": "5",
+      "pilot": [
+        "/people/8a3ec5a6-c12c-43db-b851-81349ab8148a"
+      ],
+      "films": [
+        "/films/b8868098-8d2d-4168-8286-eb3979b304d5"
+      ],
+      "url": "/vehicles/5f8a2d36-0e04-4c4d-bd81-0f03c761d859"
     }
   ]
 }
