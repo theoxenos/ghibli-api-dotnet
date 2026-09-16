@@ -2,16 +2,16 @@
   {
     "id": "b8868098-8d2d-4168-8286-eb3979b304d5",
     "title": "Nausicaä of the Valley of the Wind",
-    "originalTitle": "風の谷のナウシカ",
-    "originalTitleRomanised": "Kaze no Tani no Nausicaä",
+    "original_title": "風の谷のナウシカ",
+    "original_title_romanised": "Kaze no Tani no Nausicaä",
     "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
-    "movieBanner": "https://image.tmdb.org/t/p/original/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+    "movie_banner": "https://image.tmdb.org/t/p/original/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
     "description": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
     "director": "Hayao Miyazaki",
     "producer": "Isao Takahata",
-    "releaseDate": 1984,
-    "runningTime": 117,
-    "rtScore": 91,
+    "release_date": "1984",
+    "running_time": "117",
+    "rt_score": "91",
     "people": [
       "8a3ec5a6-c12c-43db-b851-81349ab8148a",
       "f8e2c9a1-3b7d-4e5c-a1f9-2d6c8b4e7a93"
