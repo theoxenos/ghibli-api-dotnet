@@ -52,5 +52,5 @@ if (errors === 0) {
 }
 
 console.log("Writing data.json...");
-fs.writeFileSync("data.json", JSON.stringify(data, null, 2));
+fs.writeFileSync(process.env.data_path ?? "../data.json", JSON.stringify(data, null, 2));
 console.log("Done.");
