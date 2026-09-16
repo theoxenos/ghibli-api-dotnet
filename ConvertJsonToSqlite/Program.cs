@@ -4,9 +4,12 @@ using ConvertJsonToSqlite.Models.Dto;
 using Microsoft.EntityFrameworkCore;
 using Film = ConvertJsonToSqlite.Models.Domain.Film;
 using Location = ConvertJsonToSqlite.Models.Domain.Location;
+using Person = ConvertJsonToSqlite.Models.Domain.Person;
+using Species = ConvertJsonToSqlite.Models.Domain.Species;
+using Vehicle = ConvertJsonToSqlite.Models.Domain.Vehicle;
 
 // Specify the path to your JSON file
-var jsonFilePath = "data.json";
+const string jsonFilePath = "data.json";
 
 if (!File.Exists(jsonFilePath))
 {
@@ -19,9 +22,11 @@ try
     var jsonContent = await File.ReadAllTextAsync(jsonFilePath);
     var data = JsonSerializer.Deserialize<GhibliData>(jsonContent);
 
+    Console.WriteLine("Deleting existing database...");
     File.Delete("ghibli-films.db");
-    
-    using var context = new ApplicationContext();
+
+    Console.WriteLine("Creating new database...");
+    await using var context = new ApplicationContext();
     context.Database.Migrate();
 
     var dbFilms = new List<Film>();
@@ -51,8 +56,8 @@ try
         SurfaceWater = location.SurfaceWater,
     }));
 
-    var dbPeople = new List<ConvertJsonToSqlite.Models.Domain.Person>();
-    dbPeople.AddRange(data.People.Select(person => new ConvertJsonToSqlite.Models.Domain.Person
+    var dbPeople = new List<Person>();
+    dbPeople.AddRange(data.People.Select(person => new Person
     {
         Id = person.Id,
         Name = person.Name,
@@ -62,8 +67,8 @@ try
         HairColor = person.HairColor,
     }));
 
-    var dbSpecies = new List<ConvertJsonToSqlite.Models.Domain.Species>();
-    dbSpecies.AddRange(data.Species.Select(species => new ConvertJsonToSqlite.Models.Domain.Species
+    var dbSpecies = new List<Species>();
+    dbSpecies.AddRange(data.Species.Select(species => new Species
     {
         Id = species.Id,
         Name = species.Name,
@@ -72,8 +77,8 @@ try
         HairColors = species.HairColors,
     }));
 
-    var dbVehicles = new List<ConvertJsonToSqlite.Models.Domain.Vehicle>();
-    dbVehicles.AddRange(data.Vehicles.Select(vehicle => new ConvertJsonToSqlite.Models.Domain.Vehicle
+    var dbVehicles = new List<Vehicle>();
+    dbVehicles.AddRange(data.Vehicles.Select(vehicle => new Vehicle
     {
         Id = vehicle.Id,
         Name = vehicle.Name,
@@ -96,7 +101,7 @@ try
     {
         var locationFromJsonData = data.Locations.First(l => l.Id == location.Id);
         location.Films = dbFilms.Where(f => locationFromJsonData.Films.Contains(f.Id)).ToList();
-        location.Residents = dbPeople.Where(p => locationFromJsonData.Residents.Contains(p.Id)).ToList();       
+        location.Residents = dbPeople.Where(p => locationFromJsonData.Residents.Contains(p.Id)).ToList();
         return location;
     }));
 
@@ -107,14 +112,6 @@ try
         person.Species = dbSpecies.FirstOrDefault(s => s.Id == personFromJsonData.Species);
         return person;
     }));
-
-    // context.Species.AddRange(dbSpecies.Select(species =>
-    // {
-    //     var speciesFromJsonData = data.Species.First(s => s.Id == species.Id);
-    //     species.Films = dbFilms.Where(f => speciesFromJsonData.Films.Contains(f.Id)).ToList();
-    //     species.People = dbPeople.Where(p => speciesFromJsonData.People.Contains(p.Id)).ToList();
-    //     return species;
-    // }));
 
     context.Vehicles.AddRange(dbVehicles.Select(vehicle =>
     {
@@ -130,7 +127,3 @@ catch (JsonException ex)
 {
     Console.WriteLine($"Error parsing JSON: {ex.Message}");
 }
-// catch (Exception ex)
-// {
-//     Console.WriteLine($"Error: {ex.Message}");
-// }
