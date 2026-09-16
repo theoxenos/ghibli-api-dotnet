@@ -2,8 +2,8 @@ const fs = require("node:fs");
 const data = {
     films: require("./films.json"),
     locations: require("./locations.json"),
-    species: require("./species.json"),
     people: require("./people.json"),
+    species: require("./species.json"),
     vehicles: require("./vehicles.json"),
 };
 
